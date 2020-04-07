@@ -1,0 +1,8 @@
+create a file
+Git status to check if its tracked
+git add to track it 
+git commit -m "add text"
+git config --global user.name oyebowale
+git remote add origin <repo url>
+git push origin master
+
